@@ -2,6 +2,8 @@
 
 A Python-based voice assistant for desktop. Talk to it, and it'll tell you the time, fetch the weather, crack a joke, open apps, search the web, play music, and more — with an AI fallback (OpenAI) for everything else.
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/6ced6ead-d72f-4cb5-b388-a306c0d0f4e2" />
+
 ## Features
 
 - **Voice in / voice out** — speech recognition for input, `pyttsx3` for spoken replies
